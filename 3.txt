@@ -1,0 +1,3 @@
+O(N) = linear search = n aðgerðir fyrir n
+O(N^2) = Lélegt reiknirit = n^2 aðgerðir fyrir n
+O(LOG N) = binary search = log n aðgerðir fyrir n
